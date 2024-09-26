@@ -5,4 +5,5 @@ import tailwind from '@astrojs/tailwind'
 
 export default defineConfig({
   site: 'https://isyizhang.github.io',
+  integrations: [mdx(), sitemap(), tailwind()],
 })
