@@ -1,56 +1,40 @@
 ---
-title: "Demo Post 1"
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-pubDate: "Sep 10 2022"
-heroImage: "/post_img.webp"
-tags: ["tokio"]
+title: 'More About Me'
+description: '“So long as you write what you wish to write, that is all that matters; and whether it matters for ages or only for hours, nobody can say.” ― Virginia Woolf, A Room of One’s Own'
+pubDate: 'Sep 20 2024'
+heroImage: '/me-back.JPG'
+tags: ['personal story']
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer
-malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas
-pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse
-platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada
-fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus
-vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea
-dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst
-quisque sagittis purus sit amet.
+> So long as you write what you wish to write, that is all that matters; and whether it matters for ages or only for hours, nobody can say.  
+> ― _Virginia Woolf, A Room of One’s Own_
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum
-quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet.
-Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus.
-Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit
-ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt
-dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc.
-Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus
-arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed
-tempus urna et pharetra pharetra massa massa ultricies mi.
+I have a fundamental interest in education equality, the technological divide, gender equality, labor, and mobility. These may not be my formal research topics, but they are issues that I care deeply about—rooted in my own life experiences. I have navigated diverse spaces, living and studying from _rural Jiangxi to Beijing_, from _Guangdong to California_, from _Tokyo to Seattle_. Moving between such varied locales and institutional settings sharpened my awareness of the inequalities embedded in global systems, whether in class, gender or regions.
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam
-sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec.
-Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna
-fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et
-egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel
-turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra
-nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus
-vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim
-praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus
-egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam
-ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor
-purus non. Amet dictum sit amet justo donec enim.
+My generation in China has witnessed one of the greatest waves of innovation and progress—not only in our country’s history but perhaps in human history. My family and I were part of that story. My parents didn’t go to college; instead, they came to Guangdong, the frontier of China’s reform and opening-up—a leap like fish flung into the sea, though without much of a splash. They started as factory workers, then, through hard work, built their own business.
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut
-consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra.
-Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor
-dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor
-dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque
-eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim
-blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices
-tincidunt arcu. Id cursus metus aliquam eleifend mi.
+I followed a typical path: study hard, work hard, secure a place at a good university, and eventually land a good job. I was one of the survivors of China’s grueling education system, ranking first in my county in Gaokao competition. It sounds like a typical success story, like a version of the American Dream. But that moment of pride was fleeting. In hindsight, I wouldn’t call myself a winner; I merely _survived_. Even years later, I still have nightmares about sitting at an exam table, my mind blank. It wasn’t a triumph—it was _trauma_.
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus
-imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu
-cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt
-dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat
-sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida.
-Egestas integer eget aliquet nibh praesent tristique magna.
+Chinese students often fall into the illusion that life will offer a clear, correct answer, much like the exams we train for. But life is messy, chaotic, and open-ended. There is no single right answer.
+
+I reflect on these experiences because of a slogan that has resonated with me: _"The personal is political."_ This phrase from second-wave feminism rings true in my own life. All human experience can reveal some truth, some valuable insight. Feminist books and films have given me strength. Japanese sociologist <u>_Chizuko Ueno_ </u>'s writings introduced me to feminist theory; her work opened my eyes to the structures that shape our lives. I admire writers and filmmakers like <u>_Virginia Woolf_</u>, <u>_Elena Ferrante_</u>, <u>_Chantal Akerman_</u>, and <u>_Gim Ae-ran_</u>—women from different countries who tell distinct stories, yet speak to a shared, universal experience that transcends culture.
+
+These works led me to reconsider my life as a woman. I was a left-behind child in Jiangxi, staying with my grandparents while my parents worked in the city. At the time, I was unaware of the larger social forces at play. I liked living with my grandparents. But when I looked at the bigger picture, I realized that being left behind was part of a systemic problem—an inequality born from China’s education and household registration systems. Families left their villages to contribute their labor to the booming cities, but in doing so, they sacrificed time with their children. What future awaited the children left behind without access to quality education? I knew part of the answer.
+
+Gender made the inequality worse. I remember returning home from university one Chinese New Year and seeing a childhood friend, now married and pregnant. She was my age, but she had dropped out of high school. While I went on to university, she had no such opportunity. Jiangxi is notorious for its gender inequality, with the most imbalanced sex ratio at birth in China, largely due to the cultural preference for boys and sex-selective abortions. Social stereotypes persisted: _girls aren’t good at STEM_, _girls shouldn’t be too smart_, _girls should find a good husband_. All of this happened before I even fully understood the forces behind it.
+
+One of the novels that has influenced me most is _Elena Ferrante_’s _Neapolitan Novels_, particularly her concept of _"dissolving margins"_ or _"boundaries"_. The protagonist, Elena, grows up in a violent, impoverished neighborhood, but education allows her to escape and become a writer. Yet, the patriarchal world never leaves her—whether in her childhood or her marriage. I felt a deep connection to Elena’s journey, especially her complex feelings about the neighborhood where she was born. Her best friend Lila, immensely talented, drops out of school and marries a violent man. The _dissolving margins_ are moments when one realizes the brutal truths hidden behind the walls of society, much like the reveal in _The Truman Show_. As a girl surrounded by horror—death, social injustice, family chaos—you begin to understand the complexity of the world. You can’t be at ease. Yet it’s also the moment when you realize that you can break free, run away, and see the bigger world.
+
+The woman who runs away is an iconic image, repeated endlessly in fiction. Perhaps the most famous example is _A Doll’s House_. The motif has echoed in pop culture, from _Thelma & Louise_ to _Gone Girl_. In some ways, I am one of them. The motivation to leave is always the same: the desire to see a bigger world, to seek freedom. _Virginia Woolf_ wrote, _“As a woman I have no country. As a woman, I want no country. As a woman, my country is the whole world.”_
+
+But the world is not an even landscape. Leaving the small town means the tracks vanish. Freedom expands, but so do complexity and unforeseen challenges. Huge divisions remain. I’ve experienced this firsthand through various internships and part-time jobs in different places. One particularly interesting job was working as a translator at a Tokyo real estate firm, where I toured apartments around the city. I worked at a tech company in the U.S., where my salary was ten to twenty-five times what I earned before. I am the same person, yet the income difference is staggering.
+
+I once read an anthropology book that struck me deeply, _Global “Body Shopping”: An Indian Labor System in the Information Technology Industry_ by <u>_Xiang Biao_</u>. The book reveals the hidden labor system behind Silicon Valley’s innovation. Beyond the thrilling stories of entrepreneurship and the genius of small groups of tech elites, there lies a vast global labor structure connecting local societies in developing countries to Silicon Valley’s tech empires.
+
+In the final chapter, _Biao_ writes, _“It is the invisible and undervalued work of these women, children, and many other men that enables the Indian IT labor force to be produced at very low costs. It is therefore hard to assess who—an ‘untouchable’ woman cleaner, a Kamma H-1B man, or an American venture capitalist—contributed the most to Silicon Valley’s glory.”_
+
+Now, Generative AI is creating a new wave of technological progress, ushering in another golden age for Silicon Valley. Yet, I can’t help but think back to a class I once took on Chinese historiography, the _Zi Zhi Tong Jian_ (Comprehensive Mirror in Aid of Governance). My professor posed a thought-provoking question: _“Imagine a person born in Europe in 1910. What might they have experienced? World War I in their youth, World War II in their later years.”_
+
+The weight of history is immense. It often moves beyond our control. We felt this during the COVID-19 pandemic, when a phrase spread on Chinese social media: _“A speck of dust from the times, when it falls on an individual, becomes a mountain.”_
+
+We are all part of ongoing history, once again being carried forward by technological forces. What future awaits us? What history will our generation write? As we speed ahead, I don’t want to forget those left behind—just as I was once a left-behind child.
