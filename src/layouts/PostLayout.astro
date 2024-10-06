@@ -1,5 +1,6 @@
 ---
 import { type BlogSchema } from "../content/config";
+import Gallery from "../components/Gallery.astro";
 import BaseLayout from "./BaseLayout.astro";
 import dayjs from "dayjs";
 import localizedFormat from "dayjs/plugin/localizedFormat";
@@ -7,11 +8,14 @@ import localizedFormat from "dayjs/plugin/localizedFormat";
 export interface Props extends BlogSchema {}
 
 const { title, description, pubDate, updatedDate, heroImage, badge, tags = [] } = Astro.props;
+const isGallery = tags && tags[0] === "Photography";
 dayjs.extend(localizedFormat);
 const displayDate = dayjs(pubDate).format("ll")
 import { Image } from "astro:assets";
 ---
-
+{isGallery ? (
+  <Gallery tags={tags} title={Astro.props.title} description={description}/>
+) : (
 <BaseLayout title={title} description={description} image={heroImage}, ogType="article">
   <main class="md:flex md:justify-center">
     <article class="prose prose-lg max-w-[750px] prose-img:mx-auto">
@@ -41,3 +45,4 @@ import { Image } from "astro:assets";
     </article>
   </main>
 </BaseLayout>
+)}

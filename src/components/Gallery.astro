@@ -1,0 +1,58 @@
+---
+import fs from "fs";
+import path from "path";
+import { Image } from "astro:assets";
+import BaseHead from "../components/BaseHead.astro";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+import SideBar from "../components/SideBar.astro";
+import { ViewTransitions } from "astro:transitions";
+import { SITE_TITLE, SITE_DESCRIPTION, TRANSITION_API } from "../config";
+
+const { tags } = Astro.props;
+const { title = SITE_TITLE, description = SITE_DESCRIPTION, sideBarActiveItemID } = Astro.props;
+const imageFolder = tags.length > 1 ? tags[1] : null;
+let imageFiles = [];
+
+if (imageFolder) {
+  // No need to reference ../public, since Astro treats /public as root
+  const folderPath = path.join(Astro.srcDir || "", "public", imageFolder);
+  
+  if (fs.existsSync(folderPath)) {
+    imageFiles = fs.readdirSync(folderPath);
+  } else {
+    console.error(`Folder path does not exist: ${folderPath}`);
+  }
+}
+---
+
+<!doctype html>
+<html lang="en" data-theme="lofi">
+  <head>
+    <BaseHead title={title} description={description} />
+    {TRANSITION_API && <ViewTransitions />}
+  </head>
+  <body>
+    <div class="font-serif bg-base-100 drawer lg:drawer-open"> <!-- Matching font and layout -->
+      <input id="my-drawer" type="checkbox" class="drawer-toggle" />
+      <div class="drawer-content bg-base-100">
+        <Header title={SITE_TITLE} />
+        <div class="md:flex md:justify-center">
+          <main class="p-6 pt-10 lg:max-w-[900px] max-w-[100vw]">
+            <h1 class="text-4xl font-bold mb-6">{title}</h1>
+            <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 gap-4">
+              {imageFiles.map(image => (
+                <div class="flex flex-col items-center">
+                  <img src={`/${imageFolder}/${image}`} loading="lazy" class="w-full rounded-lg shadow-lg" />
+                  {/* <p class="mt-2 text-center">{image}</p> */}
+                </div>
+              ))}
+            </div>
+          </main>
+        </div>
+        <Footer />
+      </div>
+      <SideBar sideBarActiveItemID={sideBarActiveItemID} />
+    </div>
+  </body>
+</html>
