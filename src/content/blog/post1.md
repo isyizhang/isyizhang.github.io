@@ -1,5 +1,5 @@
 ---
-title: 'Dissolving Boundaries'
+title: 'Dissolving Boundaries -- More About Me'
 description: '“So long as you write what you wish to write, that is all that matters; and whether it matters for ages or only for hours, nobody can say.” ― Virginia Woolf, A Room of One’s Own'
 pubDate: 'Sep 20 2024'
 heroImage: '/me-back.webp'
