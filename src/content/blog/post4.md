@@ -22,19 +22,19 @@ _I typically write literature content in my native language, Chinese, except for
 
 读完《素食者》，我立刻想到了几年前看的一部电影《Raw》，它的导演是 Julia Ducournau，凭借极具争议性的《Titane》成为了第二位获得金棕榈大奖的女性导演。
 
-《Raw》的故事几乎可以成为《素食者》的反面，它像我们展示了另外一端的女性创造，这是极其有趣的一组对照。《Raw》的故事中也有一对姐妹，她们成长在一个素食者的家庭，而妹妹到进入大学之后，却逐渐发现了自己想要吃人肉的欲望，而她的姐姐启发并引导着她的欲望。
+《Raw》的故事几乎可以成为《素食者》的反面，它向我们展示了另外一端的女性创造，这是极其有趣的一组对照。《Raw》的故事中也有一对姐妹，她们成长在一个素食者的家庭，在妹妹到进入大学后，却逐渐发现了自己想要吃人肉的欲望，而她的姐姐启发并引导着她的欲望。
 
 导演把她的想法包裹在这样一个极端异化的故事。《生吃》探讨了人性与兽性的边界、欲望的压制、集体意志的霸凌、少数群体的存在、疯癫与文明的界限。电影中的一个重要角色是女主的朋友，一个 gay，他代表着隐藏在人群中的少数群体。而故事最终揭露女主之所以想吃肉，是因为她的妈妈有这样的基因，而她的爸爸甘愿被啃食。男同说他在人群中隐藏了二十多年，而女主这一家人也借由素食者的标签隐藏在人群中，而最终这种欲望却无法被压制，在人群面前被赤裸裸撕开呈现。吃动物的肉可以接受，吃人肉者的存在可能会是合理的吗？当然，我们都知道这是不可能被现代文明所容忍的存在。
 
 在最深处，《生吃》和《素食者》都扣问了人类社会的边界，不过她们分别在两个极端。《素食者》中的女主通过变为植物来反抗人类社会的暴力，女主处在植物性和人性的边界。《生吃》却是一部身体恐怖片，里面有大量血腥暴力的镜头，女主处在人性和兽性的边界。
 
-而《生吃》中常常被忽视的是它其中蕴含的性别符号。女主和姐姐模仿着男性的方法站在天台撒尿，姐姐带着妹妹装作弱小的样子假装车祸，引诱着男性下车并将其杀死吃掉，以及妹妹和男性性交却最终将对方啃食。这是一种捕食者和被捕食者的倒转。姐妹俩有着动物的本性，却模仿着人类社会的规训乃至性别秩序，姐姐最终也被关入了监狱——更深度的驯化。这或许符合 Judith Butler 的性别扮演。《生吃》无疑有着一种更加难以被归类的身份想象，这样的想象在她的金棕榈作品《钛》中展现得更淋漓尽致--女性和机器的结合，跨越人类身份的赛博格。
+《生吃》中常常被忽视的是它其中蕴含的性别符号。女主和姐姐模仿着男性的方法站在天台撒尿，姐姐带着妹妹装作弱小的样子假装车祸，引诱着男性下车并将其杀死吃掉，以及妹妹和男性性交却最终将对方啃食。这是一种捕食者和被捕食者的倒转。姐妹俩有着动物的本性，却模仿着人类社会的规训乃至性别秩序，姐姐最终也被关入了监狱——更深度的驯化。这或许符合 Judith Butler 的性别扮演。《生吃》无疑有着一种更加难以被归类的身份想象，这样的想象在她的金棕榈作品《钛》中展现得更淋漓尽致--女性和机器的结合，跨越人类身份的赛博格。
 
-在 Julia 的作品中，女性不再是受害者和弱者，甚至很难说她还认同所谓的二元身份，她所书写的是非常态的欲望和非常态的身份。而韩江的写作，更加接近东亚女性的现实，一种仍在传统父权结构下被迫害剥削的女性们的日常。而我本人，也更容易对韩江的写作共情。这样的对照，或许也是东亚女性的现实与欧美 progressive 议程的映射。
+在 Julia 的作品中，女性不再是受害者和弱者，甚至很难说她还认同所谓的二元身份，她所书写的是非常态的欲望和非常态的身份。而韩江的写作，更加接近东亚女性的现实，一种仍在传统父权结构下被迫害剥削的女性们的日常。这样的对照，或许也是东亚女性的现实与欧美 progressive 议程的映射。而我本人，还是更容易对韩江的写作共情。
 
-English Version
+**English Version**
 
-I spent half a day reading The Vegetarian by Han Kang, this year's Nobel Prize in Literature winner. The novel is packed with raw and potent imagery, telling the story of a woman who rebels against human society by becoming a vegetarian and ultimately transforming into a plant.
+I spent half a day reading _The Vegetarian_ by _Han Kang_, this year's Nobel Prize in Literature winner. The novel is packed with raw and potent imagery, telling the story of a woman who rebels against human society by becoming a vegetarian and ultimately transforming into a plant.
 
 The story unfolds from three distinct perspectives. The first part is told from the viewpoint of her husband, a conventional, dull, indifferent man who exploits her labor within their marriage. On the day before she decides to stop eating meat, she cuts her hand while preparing food for him. Instead of showing concern, he merely shouts at her impatiently. She gazes at the blood on her hand, and from that day, she starts having nightmares about meat and decides to become a vegetarian. This moment may symbolize her sudden awakening—her realization that her body, too, is part of what has been taken from her.
 
