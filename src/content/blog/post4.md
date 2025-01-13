@@ -1,6 +1,6 @@
 ---
 title: 'The Vegetarian and Raw'
-description: 'A Comparative Reflection on The Vegetarian and Raw'
+description: ''
 pubDate: 'Oct 13  2024'
 heroImage: '/han-kang.webp'
 tags: ['After Reading']
@@ -30,4 +30,4 @@ At its core, both Raw and The Vegetarian question the limits of human society, t
 
 What often goes unnoticed in Raw is the gender symbolism embedded within it. The protagonist and her sister mimic men by standing on the rooftop and urinating like them. The older sister lures a man out of his car by pretending to be weak, only to kill and devour him—a reversal of predator and prey. These sisters possess animalistic instincts while performing within the constraints of human social structures, even gender norms. In the end, the older sister is locked away, further institutionalized—a deeper form of taming. This might echo Judith Butler’s theory of gender performativity. Raw presents an identity that defies categorization, a notion that Ducournau pushes even further in Titane, where the fusion of woman and machine transcends human identity to form a cyborg.
 
-In Ducournau’s work, women are no longer mere victims or weak figures; it’s difficult even to say they conform to gender identities. Her stories are exploring non-normative desires and identities outside societal expectations. Han Kang, on the other hand, writes from a perspective closer to the lived realities of East Asian women, whose daily lives are still shaped by exploitation and oppression under a traditional patriarchal system. This contrast also reflects the difference between feminist agendas. For me, though, it is Han Kang’s narrative that resonates more deeply.
+In Ducournau’s work, women are no longer mere victims or weak figures; it’s difficult even to say they conform to gender identities. Her stories are exploring non-normative desires and identities outside societal expectations. Han Kang, on the other hand, writes from a perspective closer to the lived realities of East Asian women, whose daily lives are still shaped by exploitation and oppression under a traditional patriarchal system. This contrast also reflects the difference between feminist agendas.
