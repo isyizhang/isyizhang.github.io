@@ -1,0 +1,33 @@
+
+---
+import fs from "fs";
+import path from "path";
+import { Image } from "astro:assets";
+import { SITE_TITLE, SITE_DESCRIPTION } from "../config";
+
+const { tags } = Astro.props;
+const { title = SITE_TITLE, description = SITE_DESCRIPTION } = Astro.props;
+const imageFolder = tags.length > 1 ? tags[1] : null;
+
+let imageFiles = [];
+if (imageFolder) {
+  const folderPath = path.join(Astro.srcDir || "", "public", imageFolder);
+  if (fs.existsSync(folderPath)) {
+    imageFiles = fs.readdirSync(folderPath);
+  } else {
+    console.error(`Folder path does not exist: ${folderPath}`);
+  }
+}
+---
+{/* *** No <html>, <head>, <Header>, <Footer>, etc. *** */}
+<div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 gap-4">
+  {imageFiles.map((image) => (
+    <div class="flex flex-col items-center">
+      <img
+        src={`/${imageFolder}/${image}`}
+        loading="lazy"
+        class="w-full rounded-lg shadow-lg"
+      />
+    </div>
+  ))}
+</div>
